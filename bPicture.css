@@ -1,0 +1,17 @@
+body {
+    background-image: url("book.jpg");
+    background-size: cover;
+}
+h1 {
+    color: chocolate;
+}
+#pfr {
+    margin-top: 4em;
+    margin-bottom: 2em;
+    color: #fdf56c4;
+}
+p.prp {
+    color: rgb(240, 90,12);
+    border-style: none;
+    border-left-style: solid;
+}
